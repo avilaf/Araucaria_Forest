@@ -1,4 +1,5 @@
-#### Supplementary files of the article *_"Review on diversification, Ecology and Evolution during the Quaternary in the Araucaria Forest Province (Atlantic Forest, Brazil)"_*
+#### Supplementary files of the article:
+# _"Review on diversification, Ecology and Evolution during the Quaternary in the Araucaria Forest Province (Atlantic Forest, Brazil)"_
 
 
 Fernanda R. de Avila and Victor H. Valiati
